@@ -217,7 +217,7 @@ ol li { /*arrumar o alinhamento da esquerda*/
 
   html
 
-  </head>
+<!--    </head>
 <body>
   <main>
   <section id="page">
@@ -303,3 +303,4 @@ ol li { /*arrumar o alinhamento da esquerda*/
 </main>
 </body>
 </html>
+-->
