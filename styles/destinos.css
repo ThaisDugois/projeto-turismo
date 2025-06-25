@@ -1,0 +1,70 @@
+.destinos {
+  border: 1px solid red;
+  padding: 64px 64px;  
+}
+
+.destinos h3 {
+  width: 255px;
+  height: 22px;
+  font: bold 16px "Open Sans", sans-serif;
+  color: var(--color-headline);
+  margin-bottom: 8px;   
+}
+
+.destinos h2 {
+  width: 683px;
+  height: 44px;
+  font: bold 32px "Open Sans", sans-serif;
+  color: var(--color-primary);
+  margin-bottom: 16px;
+}
+
+.destinos p {
+  width: 1120px;
+  height: 88px;  
+  font: 16px "Open Sans", sans-serif;
+  color: var(--color-secondary); 
+  text-align: justify;
+}
+
+.atração img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  image-rendering: crisp-edges; /* mantém a qualidade da imagem */
+}
+
+.atração h3 {
+  border: 1px solid red;
+  width: 1183.51px;
+  height: 38px;
+  font: bold 28px "Open Sans", sans-serif;
+  color: var(--color-primary);
+  margin: 20px 4px;
+
+  }
+  
+.atração p {
+  width: 1120px;
+  height: auto;
+  font: 16px "Open Sans", sans-serif;
+  color: var(--color-secondary);
+}
+
+.atração a {
+  width: 1120px;
+  height: 110px;
+  font: bold 16px "Open Sans", sans-serif;
+  color: var(--accent-blue);
+  display: block;
+  flex-direction: column;
+  text-decoration: none;
+  list-style: disc;  
+}
+
+.bom-para ul {
+  list-style: disc;
+  padding-bottom: 48px;
+  padding-left: 22px;
+  margin: 0;
+}

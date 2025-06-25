@@ -2,8 +2,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  
-}
+  }
 
 :root {
   --background-default: #F5F4F0;
@@ -33,4 +32,13 @@ body {
   /* color: var(--text-headline); */
   background-color: var(--background-default);
   padding: 80px 80px;
+}
+
+body hr {
+  width: 1120px;
+  height: 1px;
+  color: var(--border-primary);
+  align-items: center;
+  margin: 0 auto;
+  
 }

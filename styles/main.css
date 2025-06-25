@@ -1,0 +1,24 @@
+.main {
+  /* border: 1px solid red; */
+  box-sizing: border-box; /* inclui a borda no cálculo do tamanho total */
+  padding-bottom: 40px;
+}
+
+.main img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* cobre todo o espaço disponível */
+  image-rendering: crisp-edges; /* mantém a qualidade da imagem */
+  border-radius: 28px;
+  padding-top: 4px;
+}
+
+.main p {
+  display: flex;
+  font: italic 16px var(--font-family);  
+  text-align: center; /* centraliza o texto */
+  width: 1120px;
+  height: 37px;
+  margin: auto;
+  padding: 40px 40px;
+}
