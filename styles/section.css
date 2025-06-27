@@ -55,8 +55,7 @@ section.Beomeo-sa img {
   image-rendering: crisp-edges; /*mantém a qualidade da imagem*/  
 }
 
-section.Beomeo-sa h3 {
-  
+section.Beomeo-sa h3 {  
   width: 1183.51px;
   height: 38px;
   font: bold 28px "Open Sans", sans-serif;
@@ -65,22 +64,21 @@ section.Beomeo-sa h3 {
   margin: 20px 0 4px 1%; 
 }
   
-section.Yonggungsa p {
+section.Beomeo-sa p {
   width: 1120px;
   height: auto;
   font: 16px "Open Sans", sans-serif;
-  color: #333333;
-   
+  color: #333333;   
 }
 
-section.Yonggungsa .bom-para p {
+section.Beomeo-sa .bom-para p {
   width: 1120px;
   height: auto;
   font: bold 16px "Open Sans", sans-serif;
   color: #333333;   
 }
 
-section.Yonggungsa .bom-para ul {
+section.Beomeo-sa .bom-para ul {
   
   list-style: disc; /* adc a bolinha */
   text-decoration: none;
@@ -88,8 +86,65 @@ section.Yonggungsa .bom-para ul {
   margin-bottom: 48px;
 }
 
-section.Yonggungsa .bom-para a {
+section.Beomeo-sa .bom-para a {
   font: bold 16px "Open Sans", sans-serif;
   color: var(--accent-blue);
   text-decoration: none;
+}
+
+
+section.Yongdusan img {
+  width: 1120px;
+  height: 350px;
+  border-radius: 28px;
+  object-fit: cover; /*cobre todo o espaço disponível*/
+  image-rendering: crisp-edges; /*mantém a qualidade da imagem*/  
+}
+
+section.Yongdusan h3 {  
+  width: 1183.51px;
+  height: 38px;
+  font: bold 28px "Open Sans", sans-serif;
+  color: var(--color-primary);
+  padding-bottom: 4px;      
+  margin: 20px 0 4px 1%; 
+}
+  
+section.Yongdusan p {
+  width: 1120px;
+  height: auto;
+  font: 16px "Open Sans", sans-serif;
+  color: #333333;   
+}
+
+section.Yongdusan .bom-para p {
+  width: 1120px;
+  height: auto;
+  font: bold 16px "Open Sans", sans-serif;
+  color: #333333;   
+}
+
+section.Yongdusan .bom-para ul {  
+  list-style: disc; /* adc a bolinha */
+  text-decoration: none;
+  padding-left: 15px;
+  margin-bottom: 48px;
+}
+
+section.Yongdusan .bom-para .Casais {
+  font: bold 16px "Open Sans", sans-serif;
+  color: var(--accent-purple);
+  text-decoration: none;
+}
+
+section.Yongdusan .bom-para .Familias {
+  font: bold 16px "Open Sans", sans-serif;
+  color: var(--accent-pink);
+  text-decoration: none;
+}
+
+section.Yongdusan .bom-para .Orçamento {
+  font: bold 16px "Open Sans", sans-serif;
+  color: var(--accent-orange);
+  text-decoration: none;  
 }
