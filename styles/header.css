@@ -1,18 +1,11 @@
-.cabeçalho {
-  /* width: 1120px;
-  height: 79px; */
-  border: 1px solid red;
-  box-sizing: border-box;
-  padding-bottom: 40px;
-}
-
 .cabeçalho h2 {
-  font: var(--text-viagem);
+  font: bold 16px "Open Sans", sans-serif;
   color: var(--color-headline);
   padding-bottom: 8px;  
 }
 
 .cabeçalho h1 {
   color: var(--color-primary);
-  font: bold 36px "Open Sans", sans-serif; /* nessa ordem */
+  font: bold 36px "Open Sans", sans-serif; /* nessa ordem */ 
+  margin-bottom: 40px;
 }

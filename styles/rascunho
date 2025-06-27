@@ -304,3 +304,15 @@ ol li { /*arrumar o alinhamento da esquerda*/
 </body>
 </html>
 -->
+
+
+bom-para a {
+  width: 1120px;
+  /* height: 110px; */
+  font: bold 16px "Open Sans", sans-serif;
+  color: var(--accent-blue);
+  display: block;
+  flex-direction: column;
+  text-decoration: none;
+  list-style: disc;  
+}

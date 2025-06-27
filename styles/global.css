@@ -2,7 +2,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  }
+}
 
 :root {
   --background-default: #F5F4F0;
@@ -35,10 +35,9 @@ body {
 }
 
 body hr {
-  width: 1120px;
+  /* width: 1120px; */
   height: 1px;
-  color: var(--border-primary);
+  color: #D9D9D9;
   align-items: center;
-  margin: 0 auto;
-  
+  margin: 0 auto;   
 }
