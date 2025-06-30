@@ -27,11 +27,12 @@
   --text-subtitle: 16px/italic var(--font-family);
 }
 
-body {
+#container {
   /* font: var(--text-headline); */
   /* color: var(--text-headline); */
   background-color: var(--background-default);
-  padding: 80px 80px;
+  /* padding: 80px 80px; */
+  margin: 88px 80px 48px 80px;  
 }
 
 body hr {

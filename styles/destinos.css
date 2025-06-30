@@ -19,7 +19,7 @@ section.destinos h2 {
 }
 
 section.destinos p {  
-  width: 1120px;
+  width: auto;
   height: 88px;  
   font: 16px "Open Sans", sans-serif;
   color: #333333; 

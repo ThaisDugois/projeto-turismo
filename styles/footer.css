@@ -1,0 +1,18 @@
+footer p {
+  text-align: center;
+  width: auto;
+  height: 66px;
+  font: 16px "Open Sans", sans-serif;
+  color: #333333;
+  padding-top: 40px;
+  margin-bottom: 65px;
+}
+
+ion-icon {
+  color: #333333;
+  width: 16px;
+  height: 16px;
+  padding: 0;
+  margin: 8px 6px;
+  vertical-align: middle; /*alinha os ícones com o texto se tiver em inline*/
+}

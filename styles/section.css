@@ -1,14 +1,13 @@
 section.Yonggungsa img {
-  width: 1120px;
+  width: 100%;
   height: 350px;
   border-radius: 28px;
   object-fit: cover; /*cobre todo o espaço disponível*/
   image-rendering: crisp-edges; /*mantém a qualidade da imagem*/  
 }
 
-section.Yonggungsa h3 {
-  
-  width: 1183.51px;
+section.Yonggungsa h3 {  
+  width: auto;
   height: 38px;
   font: bold 28px "Open Sans", sans-serif;
   color: var(--color-primary);
@@ -17,7 +16,7 @@ section.Yonggungsa h3 {
 }
   
 section.Yonggungsa p {
-  width: 1120px;
+  width: auto;
   height: auto;
   font: 16px "Open Sans", sans-serif;
   color: #333333;
@@ -46,9 +45,8 @@ section.Yonggungsa .bom-para a {
 }
 
 
-continua....
 section.Beomeo-sa img {
-  width: 1120px;
+  width: 100%;
   height: 350px;
   border-radius: 28px;
   object-fit: cover; /*cobre todo o espaço disponível*/
@@ -56,7 +54,7 @@ section.Beomeo-sa img {
 }
 
 section.Beomeo-sa h3 {  
-  width: 1183.51px;
+  width: auto;
   height: 38px;
   font: bold 28px "Open Sans", sans-serif;
   color: var(--color-primary);
@@ -65,7 +63,7 @@ section.Beomeo-sa h3 {
 }
   
 section.Beomeo-sa p {
-  width: 1120px;
+  width: auto;
   height: auto;
   font: 16px "Open Sans", sans-serif;
   color: #333333;   
@@ -94,7 +92,7 @@ section.Beomeo-sa .bom-para a {
 
 
 section.Yongdusan img {
-  width: 1120px;
+  width: 100%;
   height: 350px;
   border-radius: 28px;
   object-fit: cover; /*cobre todo o espaço disponível*/
@@ -102,7 +100,7 @@ section.Yongdusan img {
 }
 
 section.Yongdusan h3 {  
-  width: 1183.51px;
+  width: auto;
   height: 38px;
   font: bold 28px "Open Sans", sans-serif;
   color: var(--color-primary);
@@ -111,7 +109,7 @@ section.Yongdusan h3 {
 }
   
 section.Yongdusan p {
-  width: 1120px;
+  width: auto;
   height: auto;
   font: 16px "Open Sans", sans-serif;
   color: #333333;   
@@ -147,4 +145,14 @@ section.Yongdusan .bom-para .Orçamento {
   font: bold 16px "Open Sans", sans-serif;
   color: var(--accent-orange);
   text-decoration: none;  
+}
+
+.descrição p {
+  text-align: center;
+  width: auto;
+  height: 66px;
+  font: 16px "Open Sans", sans-serif;
+  color: #333333;
+  padding-top: 40px;
+  margin-bottom: 65px;
 }

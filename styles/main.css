@@ -10,7 +10,7 @@
   font: italic 16px var(--font-family);  
   color: #333333;
   text-align: center; /* centraliza o texto */
-  width: 1120px;
+  width: 100%;
   height: auto;
-  margin: 40px;  
+  margin: 24px 0 40px 0; /* margem superior, direita, inferior e esquerda */
 }
