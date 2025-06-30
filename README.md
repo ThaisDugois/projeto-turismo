@@ -18,7 +18,7 @@ Projeto web de Turismo, promovido pela Rocketseat para ensino de tecnologias WEB
 <br>
 
 <p align="center">
-  <img alt="projeto local turistico" src="./assets/Preview turismo.jpg" width="100%">
+  <img alt="projeto local turistico" src="./assets/local turistico.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
